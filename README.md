@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CardByte](https://play.google.com/store/apps/details?id=ai.cardbyte.enterprise)
 
-- 👯 I’m looking to collaborate on [The Lallantop](https://play.google.com/store/apps/details?id=com.thelallantop&hl=en&gl=US)
+- 👯 I also worked on [The Lallantop](https://play.google.com/store/apps/details?id=com.thelallantop&hl=en&gl=US)
 
 - 📫 How to reach me **https://www.linkedin.com/in/aman-gangwar-424b7989/**
 
