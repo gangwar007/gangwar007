@@ -10,6 +10,7 @@
 - 👯 I also worked on [The Lallantop](https://play.google.com/store/apps/details?id=com.thelallantop&hl=en&gl=US)
 
 - 📫 How to reach me **https://www.linkedin.com/in/aman-gangwar-424b7989/**
+- 📫 How to reach me **https://www.instagram.com/aman_gangwar007/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
